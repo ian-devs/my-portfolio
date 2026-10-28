@@ -1,6 +1,4 @@
-# my-portfolio
-
-# My Personal Portfolio
+# My Portfolio
 
 Welcome to my personal portfolio! This website showcases my background, technical skills, and projects as an aspiring web developer.
 
